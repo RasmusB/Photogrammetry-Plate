@@ -1,0 +1,104 @@
+(footprint "CCTAG_0019"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "2487f567-fc84-44cb-9a04-ad7128e7a005")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "CCTAG_0019"
+		(at 0 12.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "b9631adb-91ce-4f41-861b-632a1f9a3981")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0085a71e-02d0-4f8d-9b73-5b4f7f6a7fdc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7bd6bc44-0735-4878-b4e2-99815338f4ed")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8e10e8a0-f672-4247-97a1-efb53fe1c0fb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_bom allow_missing_courtyard dnp)
+	(fp_circle
+		(center 0 0)
+		(end 4.25 0)
+		(stroke
+			(width 1.5)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "163037f9-07c2-4587-9b2b-d531d31969d5")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 7 0)
+		(stroke
+			(width 1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "d3f00af3-d4b4-43a6-b23c-fd06cb2243ff")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 9.25 0)
+		(stroke
+			(width 1.5)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "0706c629-a53d-4a6c-bc41-aab5b7bba5a2")
+	)
+)
